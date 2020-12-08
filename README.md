@@ -1,70 +1,47 @@
-# Getting Started with Create React App
+# Piedra, Papel, Tijera, Lagarto o Spock
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+#### Juego que se hizo conocido gracias a Sheldon Cooper (The Big Bang Theory) pero en realidad fue inventado por Sam Kass y Karen Bryla.
 
-## Available Scripts
+## Reglas
 
-In the project directory, you can run:
+#### Similar al Piedra, Papel o Tijera pero con más casos:
 
-### `npm start`
+#### -Tijera corta a Papel
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+#### -Papel tapa a Piedra
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+#### -Piedra aplasta a Lagarto
 
-### `npm test`
+#### -Lagarto envenena a Spock
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+#### -Spock rompe a Tijera
 
-### `npm run build`
+#### -Tijera decapita a Lagarto
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+#### -Lagarto devora a Papel
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+#### -Papel desautoriza a Spock
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+#### -Spock vaporiza a Piedra
 
-### `npm run eject`
+#### -Piedra aplasta a Tijera
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## Instalación del proyecto
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Requerimientos mínimos
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+#### -[git](https://git-scm.com/): versión utilizada 2.29.2
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+#### -[_node.js_](https://nodejs.org/): versión utilizada 15.3.0
 
-## Learn More
+### Guía de instalación
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+#### 1- Réplica local del proyecto: se realiza mediante el comando _git clone https://github.com/francoNeira/unq-ui-franco-neira-trabajo-final.git_
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+#### 2- Posicionamiento en el proyecto: se realiza mediante el comando _cd unq-ui-franco-neira-trabajo-final_
 
-### Code Splitting
+#### 3- Instalación de dependencias requeridas por el proyecto: se realiza mediante el comando _npm install_
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+#### 4- Ejecución del proyecto: se realiza mediante el comando _npm start_
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+#### 5- Visualización del proyecto: en caso de no haber sido re-dirigido automáticamente, puede acceder a la aplicación mediante un navegador web a través de la url _http://localhost:3000_
